@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Trout 🐟.
+
+I love C++, and tried my best to stick to the latest standard since 2010 with C++0x(C++11 eveentually). Most of my work are limited to C++14, but I keep learn and use C++ 17/20 stuff.
+
+I can also programming in C/C#/Javascript/Python/Java/Object-C etc.(the order matters ~ 😁)
+
+I majorly working in the game industry, and have been using UnrealEngine(3,4,5) for the most of the time, and also some CryENGINE experience.
+
+I don't like Unity-3D, nor do I have any deep experience in working with it.
 
 <!--
 **TroutZhang/TroutZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
