@@ -1,12 +1,14 @@
 ### Hi there 👋, I am Trout 🐟.
 
-I love C++, and tried my best to stick to the latest standard since 2010 with C++0x(C++11 eveentually). Most of my work are limited to C++14, but I keep learn and use C++ 17/20 stuff.
+I love C++, and I use it daily for my work in the game industry.
 
-I can also programming in C/C#/Javascript/Python/Java/Object-C etc.(the order matters ~ 😁)
+I can also program in some other C-family language, i.e., C/C#/Python/Swift/Javascript/Java/Object-C when needed. (the order matters ~ 😁)
 
-I majorly working in the game industry, and have been using UnrealEngine(3,4,5) for the most of the time, and also some CryENGINE experience.
+I have been using UnrealEngine(3,4,5) most of the time and have some CryENGINE 3 experience.
 
-I don't like Unity-3D, nor do I have any deep experience in working with it.
+I don't like Unity3D, and I don't have any deep experience working with it.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=troutzhang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TroutZhang/TroutZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
