@@ -1,12 +1,12 @@
-### Hi there 👋, I am Trout 🐟.
+### Hi there 👋, I am Trout 🐟. Minä olen Trout
 
-I love C++, and I use it daily for my work in the game industry.
+I love and majorly working daily with C++ in the game industry starting from Jan, 2008.
 
-I can also program in some other C-family language, i.e., C/C#/Python/Swift/Javascript/Java/Object-C when needed. (the order matters ~ 😁)
+For long, I was mainly a UnrealEngine developer from 2008 till 2024. Also learned some professional CryENGINE 3 in 2013, and a bit playing with Unity3D in 2009 and 2017.
 
-I have been using UnrealEngine(3,4,5) most of the time and have some CryENGINE 3 experience.
+Now I start to do in-house engine development and support, especially in platform area.
 
-I don't like Unity3D, and I don't have any deep experience working with it.
+I don't do open source development, but for those open source projects I use, I will contribute back if I can, hence those depot I cloned, are majorly for PR purpose.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=troutzhang)](https://github.com/anuraghazra/github-readme-stats)
 
